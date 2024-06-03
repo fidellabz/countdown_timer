@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- **Fidelis Ogbeni** - [fidelllabz](https://github.com/fidellabz)
+- **Fidelis Ogbeni** - [fidellabz](https://github.com/fidellabz)
 
 ---
 
