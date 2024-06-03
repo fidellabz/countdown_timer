@@ -11,7 +11,7 @@ A simple countdown timer application built with React and Vite. Users can input 
 
 ## Demo
 
-You can see a live demo of the application [here](https://countdown-timer.vercel.app).
+You can see a live demo of the application [here](https://kodecamp-countdown-timer.vercel.app).
 
 ## Getting Started
 
@@ -19,6 +19,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
 
+- Vscode
 - Node.js
 - npm (or yarn)
 
@@ -45,41 +46,6 @@ Follow these instructions to set up and run the project on your local machine.
    ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
-
-### Deployment
-
-To deploy the application on Vercel:
-
-1. Push your local repository to GitHub:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/fidellabz/countdown-timer.git
-   git push -u origin main
-   ```
-
-2. Go to [Vercel](https://vercel.com/) and create an account if you don't have one.
-3. Import your GitHub repository.
-4. Follow the instructions to deploy your project.
-
-## Project Structure
-
-```
-.
-├── public
-│   └── index.html
-├── src
-│   ├── components
-│   │   ├── TimerInput.jsx
-│   │   ├── TimerDisplay.jsx
-│   │   └── TimerControls.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   └── main.jsx
-├── package.json
-└── vite.config.js
-```
 
 ## Code Overview
 
@@ -115,8 +81,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- **Your Name** - [your-username](https://github.com/your-username)
+- **Fidelis Ogbeni** - [your-username](https://github.com/fidellabz)
 
 ---
 
-Feel free to modify this README file according to your needs and replace placeholders like `your-username` and `your-name` with your actual GitHub username and name.
+Feel free to modify this README file according to your needs and replace placeholders like `fidellabz` and `Fidelis Ogbeni` with your actual GitHub username and name.
